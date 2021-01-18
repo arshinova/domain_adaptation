@@ -24,7 +24,7 @@ Vu T. H. et al. Advent: Adversarial entropy minimization for domain adaptation i
 ### 3. predict.py
 Визуализация данных, разметки и предсказаний.
 
-# Примеры результатов.
+# Примеры результатов
 #### а) Минимизация энтропии: 
 ![Минимизация энтропии](examples_for_github/Figure_4.png)
 
